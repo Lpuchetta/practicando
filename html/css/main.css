@@ -1,0 +1,48 @@
+.card{
+    background-color: var(--color-bg-light);
+    padding: 1rem;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.card_img{
+    height: 120px;
+    
+}
+.card_rating-img{
+    height: 20px;
+}
+.home {
+    height: 200vh;
+}
+.home h1 {
+    text-align: start;
+    font-size: 4rem;
+    color: var(--color-bg-light)
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+body {
+    background-color: var(--color-primary);
+}
+body {
+    font-family: var(--font-base);
+    line-height: 1.6;
+    color: var(--color-text);
+}
+:root {
+    --color-primary: #A5B68D;
+    --color-secondary: #DA8359;
+    --color-bg-light: #FCFAEE;
+    --color-bg-dark: #ECDFCC;
+    --color-text: #212121;
+    --font-base: 'Raleway', 'Arial', sans-serif;
+}
+.container{
+    background-color: black;
+    
+}

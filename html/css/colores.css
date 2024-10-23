@@ -1,0 +1,22 @@
+body {
+    background-color: darkgreen
+}
+.titulo-principal {
+    color: gold;
+    background-color: darkslategray;
+}
+.columna-lateral{
+    background-color: darkgreen;
+}
+.contenido-principal{
+    font-size: 20px;
+    background-color: darkslategray;
+    color:black
+}
+.titulo-y-contenido{
+    background-color: #f4f4f4;
+
+}
+header{
+    background-color: #f4f4f4;
+}

@@ -1,0 +1,9 @@
+.card{
+    background-color: var(--color-bg-light);
+    padding: 1rem;
+
+}
+.card_img{
+    height: 120px;
+    
+}
